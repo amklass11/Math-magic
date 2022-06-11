@@ -15,7 +15,7 @@ class Quote extends React.Component {
       <div style={quoteStyle} className="quote">
         <p>
           Mathematics is not about numbers, equations, computations,
-          or algorithms: is about understanding. -William Paul Thurston.
+          or algorithms:,, is about understanding. -William Paul Thurston.
         </p>
       </div>
     );
